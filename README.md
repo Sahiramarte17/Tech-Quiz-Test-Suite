@@ -30,3 +30,22 @@ Clone the repository
 Install dependencies
 Set up your application
 Open Cypress
+
+# Directory Structure
+
+.
+├── client/                 // the client application
+├── cypress/                // Folder for Cypress
+    ├── component/          // Folder for component tests
+        └── Quiz.cy.jsx     // Component tests for the Quiz component
+    ├── e2e/                // Folder for end-to-end tests
+        └── quiz.cy.js      // End-to-end tests for the Tech Quiz
+    ├── fixtures/           // Folder for test fixtures
+        └── questions.json  // Mock data for testing
+    └── tsconfig.json
+├── server/                 // the server application
+├── .gitignore
+├── cypress.config.ts       // Configuration for Cypress
+├── package.json
+├── tsconfig.json
+└── README.md              // This README file
