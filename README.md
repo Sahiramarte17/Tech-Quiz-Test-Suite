@@ -24,3 +24,9 @@ Restarting the quiz
 Cypress - For testing
 React - Frontend framework
 JavaScript - Programming language
+
+# Setup Instructions
+Clone the repository
+Install dependencies
+Set up your application
+Open Cypress
