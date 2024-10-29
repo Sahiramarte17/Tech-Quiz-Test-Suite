@@ -9,3 +9,13 @@ Running the Tests
 Directory Structure
 Contributing
 License
+
+# Features
+Component tests for the Quiz component
+End-to-end tests simulating full user interactions
+Mock data for testing using Cypress fixtures
+Comprehensive coverage of quiz functionality including:
+Starting the quiz
+Answering questions
+Viewing scores
+Restarting the quiz
