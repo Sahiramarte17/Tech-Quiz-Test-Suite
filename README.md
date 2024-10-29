@@ -19,3 +19,8 @@ Starting the quiz
 Answering questions
 Viewing scores
 Restarting the quiz
+
+# Technologies Used
+Cypress - For testing
+React - Frontend framework
+JavaScript - Programming language
