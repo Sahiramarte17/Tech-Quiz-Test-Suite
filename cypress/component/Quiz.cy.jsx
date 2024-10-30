@@ -20,5 +20,5 @@ describe('Quiz Component', () => {
     cy.get('.question').should('exist'); // Confirm next question displays
   });
 
-  // Add more tests as needed
+  
 });
