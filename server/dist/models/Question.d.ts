@@ -10,6 +10,6 @@ interface IQuestion extends Document {
 declare const Question: import("mongoose").Model<IQuestion, {}, {}, {}, Document<unknown, {}, IQuestion> & IQuestion & Required<{
     _id: unknown;
 }> & {
-    __v?: number;
+    __v: number;
 }, any>;
 export { IQuestion, Question };
